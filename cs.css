@@ -1,0 +1,14 @@
+.a{
+    background-color: black;
+    height:30px; width:30px;
+}
+.b{
+    background-color: white;
+    height:30px; width:30px;
+}
+form{
+    background-color: #f5c040;
+}
+table{
+    border-collapse: collapse;
+}
