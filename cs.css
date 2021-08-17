@@ -12,3 +12,6 @@ form{
 table{
     border-collapse: collapse;
 }
+#t{
+    text-align: center;
+}

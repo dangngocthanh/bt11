@@ -1,0 +1,48 @@
+.b{
+    color: red;
+}
+h3{
+   text-align: center;
+    color: blue;
+ }
+table{
+    width: 800px;
+    margin: 0 auto;
+    align-content: center;
+    border-collapse: collapse;
+    font-family: arial, sans-serif;
+}
+.a{
+    color: blue;
+}
+#e{
+    border-color: aliceblue;
+}
+#f{
+    border-color: aliceblue;
+}
+#g{
+    color: white;
+    background-color: red;
+    border: 2px solid white;
+}
+#h{
+    color: white;
+    background-color: blue;
+    border: 2px solid white;
+}
+.y{
+    color: white;
+    background-color: #f3ea43;
+    border: 2px solid white;
+}
+td{
+    border: 2px solid #dddddd;
+    padding: 8px;
+    width: 10%;
+
+}
+sub{
+    border-color: black;
+    font-size: x-small;
+}
